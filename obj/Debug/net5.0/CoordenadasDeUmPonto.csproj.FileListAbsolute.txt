@@ -1,0 +1,16 @@
+D:\git\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.exe
+D:\git\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.deps.json
+D:\git\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.runtimeconfig.json
+D:\git\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.runtimeconfig.dev.json
+D:\git\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.dll
+D:\git\CoordenadasDeUmPonto\bin\Debug\net5.0\ref\CoordenadasDeUmPonto.dll
+D:\git\CoordenadasDeUmPonto\bin\Debug\net5.0\CoordenadasDeUmPonto.pdb
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.csprojAssemblyReference.cache
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.AssemblyInfoInputs.cache
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.AssemblyInfo.cs
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.csproj.CoreCompileInputs.cache
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.dll
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\ref\CoordenadasDeUmPonto.dll
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.pdb
+D:\git\CoordenadasDeUmPonto\obj\Debug\net5.0\CoordenadasDeUmPonto.genruntimeconfig.cache
